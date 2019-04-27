@@ -1,0 +1,13 @@
+skinning knife (4 variants):
+---------------------------------------------------------
+used for skinning carcasses to create skinned carcass.
+
+
+butcher knife (4 variants):
+---------------------------------------------------------
+used for cutting up the carcass
+
+
+cleaver (4 variants):
+---------------------------------------------------------
+used for cutting heads off carcasses
